@@ -1,0 +1,3568 @@
+[
+    {
+      "Name": "Arendellian Pickled Herring",
+      "Type": " Appetizers",
+      "Stars": "★★★★★",
+      "Energy": "2,092",
+      "SellPrice": "532",
+      "Ingred": {
+         "Ingredients": " Herring | Lemon | Onion | Garlic | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Bell Pepper Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,272",
+      "SellPrice": "606",
+      "Ingred": {
+         "Ingredients": " Bell Pepper | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Buñuelos",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,881",
+      "SellPrice": "948",
+      "Ingred": {
+         "Ingredients": " Wheat | Cheese | Milk | Egg"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Cheese Platter",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "482",
+      "SellPrice": "216",
+      "Ingred": {
+         "Ingredients": " Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chili Pepper Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,382",
+      "SellPrice": "669",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chrysanthemum Tea",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "644",
+      "SellPrice": "69",
+      "Ingred": {
+         "Ingredients": " Chrysanthemum Tea Leaves | Blueberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Coffee",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "730",
+      "SellPrice": "43",
+      "Ingred": {
+         "Ingredients": " Coffee Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Crackers",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "80",
+      "SellPrice": "2",
+      "Ingred": {
+         "Ingredients": " Any Grain"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Creamy Soup",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,129",
+      "SellPrice": "568",
+      "Ingred": {
+         "Ingredients": " Any Spice | Milk | Potato | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Crudités",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "83",
+      "SellPrice": "26",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Bell Pepper | Carrot | Cucumber | Mushroom | Zucchini"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Dream Fizz",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,550",
+      "SellPrice": "316",
+      "Ingred": {
+         "Ingredients": " Dreamlight Fruit | Sugarcane | Wheat | Slush Ice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Eggplant Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,941",
+      "SellPrice": "991",
+      "Ingred": {
+         "Ingredients": " Eggplant | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "French Fries",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "342",
+      "SellPrice": "304",
+      "Ingred": {
+         "Ingredients": " Canola | Potato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Gazpacho",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "821",
+      "SellPrice": "556",
+      "Ingred": {
+         "Ingredients": " Cucumber | Tomato | Onion | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Green Salad",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "180",
+      "SellPrice": "20",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Lettuce"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Grilled Vegetables",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "83",
+      "SellPrice": "9",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Asparagus | Bamboo | Broccoli | Cabbage' | Celery | Chili Pepper | Corn | Eggplant | Flute Root | Onion | Pumpkin | Seaweed | Spinach | Turnip | Yam"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Grilled Veggie Platter",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "161",
+      "SellPrice": "33",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Any Vegetable | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Hard-Boiled Eggs",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "578",
+      "SellPrice": "264",
+      "Ingred": {
+         "Ingredients": " Egg"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Jasmine Tea",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "127",
+      "SellPrice": "56",
+      "Ingred": {
+         "Ingredients": " Jasmine Tea Leaves | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Large Seafood Platter",
+      "Type": " Appetizers",
+      "Stars": "★★★★★",
+      "Energy": "1,810",
+      "SellPrice": "2",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Any Seafood | Any Seafood | Any Seafood | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Latte",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,358",
+      "SellPrice": "345",
+      "Ingred": {
+         "Ingredients": " Coffee Bean | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mocha",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "2,246",
+      "SellPrice": "425",
+      "Ingred": {
+         "Ingredients": " Coffee Bean | Milk | Cocoa Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Okra Soup",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "99",
+      "SellPrice": "136",
+      "Ingred": {
+         "Ingredients": " Okra"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Onion Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,392",
+      "SellPrice": "798",
+      "Ingred": {
+         "Ingredients": " Onion | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Oolong Tea",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "516",
+      "SellPrice": "59",
+      "Ingred": {
+         "Ingredients": " Oolong Tea Leaves | Raspberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Oyster Platter",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,155",
+      "SellPrice": "107",
+      "Ingred": {
+         "Ingredients": " Oyster | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Peppermint Tea",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "993",
+      "SellPrice": "107",
+      "Ingred": {
+         "Ingredients": " Lemon | Mint"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pickled Herring",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,733",
+      "SellPrice": "423",
+      "Ingred": {
+         "Ingredients": " Herring | Lemon | Onion | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Potato Leek Soup",
+      "Type": " Appetizers",
+      "Stars": "★★★★★",
+      "Energy": "1,984",
+      "SellPrice": "1,415",
+      "Ingred": {
+         "Ingredients": " Leek | Potato | Milk | Onion | Garlic"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Potato Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,333",
+      "SellPrice": "736",
+      "Ingred": {
+         "Ingredients": " Potato | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pottage",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "452",
+      "SellPrice": "208",
+      "Ingred": {
+         "Ingredients": " Potato | Any Spice | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pumpkin Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,466",
+      "SellPrice": "1,489",
+      "Ingred": {
+         "Ingredients": " Pumpkin | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pumpkin Soup",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,431",
+      "SellPrice": "1,428",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Milk | Ginger | Pumpkin"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Purée",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "230",
+      "SellPrice": "151",
+      "Ingred": {
+         "Ingredients": " Potato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Roasted Asparagus",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "221",
+      "SellPrice": "313",
+      "Ingred": {
+         "Ingredients": " Asparagus | Canola"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Salad",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "139",
+      "SellPrice": "9",
+      "Ingred": {
+         "Ingredients": " Lettuce"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sautéed Mushrooms",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "712",
+      "SellPrice": "286",
+      "Ingred": {
+         "Ingredients": " Mushroom | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Appetizer",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "242",
+      "SellPrice": "1",
+      "Ingred": {
+         "Ingredients": " Any Seafood"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Platter",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "458",
+      "SellPrice": "116",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Any Seafood"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sesame Balls",
+      "Type": " Appetizers",
+      "Stars": "★★★★★",
+      "Energy": "722",
+      "SellPrice": "322",
+      "Ingred": {
+         "Ingredients": " Wheat | Ginger | Rice | Soya | Seaweed"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Soufflé",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "2,386",
+      "SellPrice": "1,230",
+      "Ingred": {
+         "Ingredients": " Cheese | Egg | Milk | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sweet Herring",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "723",
+      "SellPrice": "305",
+      "Ingred": {
+         "Ingredients": " Herring | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tomato Soup",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "83",
+      "SellPrice": "26",
+      "Ingred": {
+         "Ingredients": " Tomato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Vegetable Soup",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "120",
+      "SellPrice": "20",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Zucchini Puffs",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "1,216",
+      "SellPrice": "632",
+      "Ingred": {
+         "Ingredients": " Zucchini | Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Apple-Cider-Glazed Salmon",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,572",
+      "SellPrice": "271",
+      "Ingred": {
+         "Ingredients": " Salmon | Sugarcane | Apple"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Baked Carp",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,894",
+      "SellPrice": "767",
+      "Ingred": {
+         "Ingredients": " Carp | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Basil Omelet",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "2,035",
+      "SellPrice": "1,020",
+      "Ingred": {
+         "Ingredients": " Basil | Egg | Cheese | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Bouillabaisse",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,114",
+      "SellPrice": "529",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Any Seafood | Shrimp | Tomato | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Carp Salad",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "2,310",
+      "SellPrice": "617",
+      "Ingred": {
+         "Ingredients": " Carp | Lemon | Lettuce"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Cheesy Crispy Baked Cod",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "840",
+      "SellPrice": "303",
+      "Ingred": {
+         "Ingredients": " Cod | Wheat | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chowder",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,186",
+      "SellPrice": "547",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Milk | Potato | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Creamy Garlic Scallops",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,844",
+      "SellPrice": "484",
+      "Ingred": {
+         "Ingredients": " Scallop | Lemon | Butter | Garlic"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Crispy Baked Cod",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "337",
+      "SellPrice": "47",
+      "Ingred": {
+         "Ingredients": " Cod | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Creole",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "822",
+      "SellPrice": "225",
+      "Ingred": {
+         "Ingredients": " Any Fish | Any Vegetable | Garlic | Rice | Tomato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish 'n' Chips",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "697",
+      "SellPrice": "356",
+      "Ingred": {
+         "Ingredients": " Any Fish | Wheat | Canola | Potato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Pasta",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,282",
+      "SellPrice": "424",
+      "Ingred": {
+         "Ingredients": " Any Fish | Garlic | Wheat | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Pie",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "867",
+      "SellPrice": "269",
+      "Ingred": {
+         "Ingredients": " Any Fish | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Risotto",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "939",
+      "SellPrice": "352",
+      "Ingred": {
+         "Ingredients": " Any Fish | Rice | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Salad",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,140",
+      "SellPrice": "58",
+      "Ingred": {
+         "Ingredients": " Any Fish | Lemon | Lettuce"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Sandwich",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "337",
+      "SellPrice": "3",
+      "Ingred": {
+         "Ingredients": " Any Fish | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Soup",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "978",
+      "SellPrice": "334",
+      "Ingred": {
+         "Ingredients": " Any Fish | Any Vegetable | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Steak",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "537",
+      "SellPrice": "101",
+      "Ingred": {
+         "Ingredients": " Any Fish | Tomato | Basil"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fish Tacos",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,171",
+      "SellPrice": "412",
+      "Ingred": {
+         "Ingredients": " Any Fish | Corn | Chili Pepper | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fugu Sushi",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "3,261",
+      "SellPrice": "1,373",
+      "Ingred": {
+         "Ingredients": " Fugu | Rice | Seaweed"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Ghostly Fish Steak",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "3,282",
+      "SellPrice": "3,548",
+      "Ingred": {
+         "Ingredients": " Here and There Fish | Lemon | Asparagus | Bell Pepper | Oregano"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Greek Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,142",
+      "SellPrice": "622",
+      "Ingred": {
+         "Ingredients": " Any Spice | Tomato | Onion | Cheese | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Grilled Fish",
+      "Type": " Entrées",
+      "Stars": "★☆☆☆☆",
+      "Energy": "290",
+      "SellPrice": "1",
+      "Ingred": {
+         "Ingredients": " Any Fish"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Grilled Fish Entree",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "340",
+      "SellPrice": "11",
+      "Ingred": {
+         "Ingredients": " Any Fish | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Gumbo",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,226",
+      "SellPrice": "1,093",
+      "Ingred": {
+         "Ingredients": " Okra | Shrimp | Chili Pepper | Tomato | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Hearty Salad",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "224",
+      "SellPrice": "33",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Lettuce | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Hors d'Oeuvres",
+      "Type": " Entrées",
+      "Stars": "★☆☆☆☆",
+      "Energy": "194",
+      "SellPrice": "18",
+      "Ingred": {
+         "Ingredients": " Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Kappa Maki",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "462",
+      "SellPrice": "335",
+      "Ingred": {
+         "Ingredients": " Seaweed | Cucumber | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Kronk's Spinach Puffs",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "750",
+      "SellPrice": "461",
+      "Ingred": {
+         "Ingredients": " Spinach | Cheese | Canola"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Lancetfish Paella",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "4,550",
+      "SellPrice": "1,653",
+      "Ingred": {
+         "Ingredients": " Lancetfish | Shrimp | Any Seafood | Tomato | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Leek Soup",
+      "Type": " Entrées",
+      "Stars": "★☆☆☆☆",
+      "Energy": "414",
+      "SellPrice": "370",
+      "Ingred": {
+         "Ingredients": " Leek"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Lemon Garlic Swordfish",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "3,713",
+      "SellPrice": "1,096",
+      "Ingred": {
+         "Ingredients": " Swordfish | Garlic | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Lioness Feast",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "2,368",
+      "SellPrice": "3,108",
+      "Ingred": {
+         "Ingredients": " Mushroom | Tomato | Oregano | Here and There Fish"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Lobster Roll",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "4,928",
+      "SellPrice": "1,959",
+      "Ingred": {
+         "Ingredients": " Lobster | Wheat | Lemon | Butter | Garlic"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Maguro Sushi",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,206",
+      "SellPrice": "338",
+      "Ingred": {
+         "Ingredients": " Tuna | Seaweed | Rice | Ginger"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Maki",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "471",
+      "SellPrice": "114",
+      "Ingred": {
+         "Ingredients": " Any Fish | Seaweed | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Margherita Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "809",
+      "SellPrice": "328",
+      "Ingred": {
+         "Ingredients": " Any Spice | Tomato | Cheese | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Marvelous Jam",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "932",
+      "SellPrice": "54",
+      "Ingred": {
+         "Ingredients": " Dreamlight Fruit | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mediterranean Salad",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "966",
+      "SellPrice": "597",
+      "Ingred": {
+         "Ingredients": " Cucumber | Tomato | Onion | Lettuce | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mushroom Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "837",
+      "SellPrice": "351",
+      "Ingred": {
+         "Ingredients": " Mushroom | Wheat | Tomato | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mushu's Congee",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,658",
+      "SellPrice": "657",
+      "Ingred": {
+         "Ingredients": " Rice | Egg | Mushroom | Garlic | Ginger"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Omelet",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,751",
+      "SellPrice": "882",
+      "Ingred": {
+         "Ingredients": " Egg | Cheese | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pan-Fried Angler Fish",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "4,194",
+      "SellPrice": "2,550",
+      "Ingred": {
+         "Ingredients": " Anglerfish | Tomato | Zucchini | Potato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pan-Seared Bass & Vegetables",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "394",
+      "SellPrice": "57",
+      "Ingred": {
+         "Ingredients": " Bass | Any Vegetable | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pan-Seared Tilapia & Vegetables",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "2,194",
+      "SellPrice": "862",
+      "Ingred": {
+         "Ingredients": " Tilapia | Any Vegetable | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pasta",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "117",
+      "SellPrice": "30",
+      "Ingred": {
+         "Ingredients": " Wheat | Tomato"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Peanut Butter Sandwich",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "592",
+      "SellPrice": "262",
+      "Ingred": {
+         "Ingredients": " Peanut | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "607",
+      "SellPrice": "284",
+      "Ingred": {
+         "Ingredients": " Tomato | Cheese | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Poached Basil-Butter Sturgeon",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "4,961",
+      "SellPrice": "2,284",
+      "Ingred": {
+         "Ingredients": " White Sturgeon | Basil | Lemon | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Porridge",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "668",
+      "SellPrice": "301",
+      "Ingred": {
+         "Ingredients": " Milk | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Porridge with Fruits",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "742",
+      "SellPrice": "336",
+      "Ingred": {
+         "Ingredients": " Milk | Wheat | Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Ranch Salad",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "714",
+      "SellPrice": "396",
+      "Ingred": {
+         "Ingredients": " Lettuce | Bell Pepper | Corn | Tomato | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Ratatouille",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,562",
+      "SellPrice": "906",
+      "Ingred": {
+         "Ingredients": " Tomato | Eggplant | Onion | Zucchini | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sake Maki",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,101",
+      "SellPrice": "323",
+      "Ingred": {
+         "Ingredients": " Rice | Seaweed | Salmon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sake Sushi",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,000",
+      "SellPrice": "274",
+      "Ingred": {
+         "Ingredients": " Salmon | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Savory Fish",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "985",
+      "SellPrice": "43",
+      "Ingred": {
+         "Ingredients": " Any Fish | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Scrambled Egg",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,070",
+      "SellPrice": "520",
+      "Ingred": {
+         "Ingredients": " Egg | Cheese"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Pasta",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "921",
+      "SellPrice": "325",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Wheat | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Pie",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "813",
+      "SellPrice": "269",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Salad",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "349",
+      "SellPrice": "11",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Lettuce"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seafood Soup",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "340",
+      "SellPrice": "23",
+      "Ingred": {
+         "Ingredients": " Any Seafood | Any Vegetable | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Seared Rainbow Trout",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "889",
+      "SellPrice": "338",
+      "Ingred": {
+         "Ingredients": " Rainbow Trout | Tomato | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Simple Fried Perch",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,317",
+      "SellPrice": "380",
+      "Ingred": {
+         "Ingredients": " Perch | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Smoked Peanuts and Anglerfish",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "3,960",
+      "SellPrice": "2,210",
+      "Ingred": {
+         "Ingredients": " Anglerfish | Peanut"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sole Meunière",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "2,337",
+      "SellPrice": "637",
+      "Ingred": {
+         "Ingredients": " Sole | Wheat | Butter | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spaghetti Arrabbiata",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "373",
+      "SellPrice": "141",
+      "Ingred": {
+         "Ingredients": " Tomato | Wheat | Chili Pepper"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spicy Baked Bream",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "2,075",
+      "SellPrice": "767",
+      "Ingred": {
+         "Ingredients": " Bream | Chili Pepper | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Steamed Fugu",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "3,668",
+      "SellPrice": "1,400",
+      "Ingred": {
+         "Ingredients": " Fugu | Ginger | Garlic"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sushi",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "405",
+      "SellPrice": "80",
+      "Ingred": {
+         "Ingredients": " Any Fish | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sweet & Sour Kingfish Steak",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "2,292",
+      "SellPrice": "702",
+      "Ingred": {
+         "Ingredients": " Kingfish | Sugarcane | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sweet Udon",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,427",
+      "SellPrice": "180",
+      "Ingred": {
+         "Ingredients": " Dreamlight Fruit | Rice | Any Seafood | Any Sweet"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tamagoyaki",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "689",
+      "SellPrice": "310",
+      "Ingred": {
+         "Ingredients": " Egg | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tasty Salad",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "641",
+      "SellPrice": "284",
+      "Ingred": {
+         "Ingredients": " Lettuce | Cucumber | Any Vegetable | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tasty Veggies",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "238",
+      "SellPrice": "29",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tekka Maki",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "984",
+      "SellPrice": "366",
+      "Ingred": {
+         "Ingredients": " Tuna | Soya | Seaweed | Rice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Teriyaki Salmon",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,726",
+      "SellPrice": "557",
+      "Ingred": {
+         "Ingredients": " Soya | Salmon | Sugarcane | Rice | Ginger"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tuna Burger",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,922",
+      "SellPrice": "491",
+      "Ingred": {
+         "Ingredients": " Tuna | Onion | Lemon | Wheat | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Vegetarian Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "754",
+      "SellPrice": "350",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Any Vegetable | Tomato | Cheese | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Vegetarian Stew",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "617",
+      "SellPrice": "475",
+      "Ingred": {
+         "Ingredients": " Potato | Carrot | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Vegetarian Taco",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "925",
+      "SellPrice": "423",
+      "Ingred": {
+         "Ingredients": " Corn | Chili Pepper | Cheese | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Veggie Casserole",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "812",
+      "SellPrice": "316",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Any Vegetable | Cheese | Any Spice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Veggie Pasta",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "158",
+      "SellPrice": "43",
+      "Ingred": {
+         "Ingredients": " Tomato | Wheat | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Veggie Pie",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "634",
+      "SellPrice": "279",
+      "Ingred": {
+         "Ingredients": " Any Vegetable | Butter | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Veggie Skewers",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "767",
+      "SellPrice": "427",
+      "Ingred": {
+         "Ingredients": " Mushroom | Zucchini | Onion | Bell Pepper"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Walleye en Papillote",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "3,689",
+      "SellPrice": "1,812",
+      "Ingred": {
+         "Ingredients": " Walleye | Basil | Oregano | Any Vegetable"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Wonton Soup",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "2,415",
+      "SellPrice": "1,038",
+      "Ingred": {
+         "Ingredients": " Egg | Shrimp | Wheat | Onion"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "My Hero Cookie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "679",
+      "SellPrice": "294",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Any Sweet"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Apple Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,137",
+      "SellPrice": "303",
+      "Ingred": {
+         "Ingredients": " Apple | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Apple Sorbet",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,077",
+      "SellPrice": "271",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Apple | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Aurora's Cake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,572",
+      "SellPrice": "767",
+      "Ingred": {
+         "Ingredients": " Wheat | Sugarcane | Egg | Any Fruit | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Banana Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,884",
+      "SellPrice": "641",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Banana | Milk | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Banana Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,227",
+      "SellPrice": "308",
+      "Ingred": {
+         "Ingredients": " Banana | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Banana Split",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,074",
+      "SellPrice": "714",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Banana | Milk | Sugarcane | Any Sweet"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Beignets",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "912",
+      "SellPrice": "524",
+      "Ingred": {
+         "Ingredients": " Canola | Wheat | Egg | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Berry Salad",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "2,255",
+      "SellPrice": "139",
+      "Ingred": {
+         "Ingredients": " Raspberry | Blueberry | Gooseberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Birthday Cake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,310",
+      "SellPrice": "749",
+      "Ingred": {
+         "Ingredients": " Cocoa Bean | Wheat | Sugarcane | Egg | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Biscuits",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "679",
+      "SellPrice": "294",
+      "Ingred": {
+         "Ingredients": " Wheat | Sugarcane | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Blueberry Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,227",
+      "SellPrice": "308",
+      "Ingred": {
+         "Ingredients": " Blueberry | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "714",
+      "SellPrice": "323",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Candy",
+      "Type": " Desserts",
+      "Stars": "★☆☆☆☆",
+      "Energy": "123",
+      "SellPrice": "22",
+      "Ingred": {
+         "Ingredients": " Any Sweet"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Caramel Apples",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "638",
+      "SellPrice": "56",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Apple"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Carrot Cake",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "908",
+      "SellPrice": "427",
+      "Ingred": {
+         "Ingredients": " Carrot | Wheat | Egg | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Cheesecake",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "725",
+      "SellPrice": "314",
+      "Ingred": {
+         "Ingredients": " Cheese | Wheat | Sugarcane | Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Cherry Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,497",
+      "SellPrice": "326",
+      "Ingred": {
+         "Ingredients": " Cherry | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chocolate Chip Cookies",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,569",
+      "SellPrice": "373",
+      "Ingred": {
+         "Ingredients": " Cocoa Bean | Wheat | Sugarcane | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chocolate Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,074",
+      "SellPrice": "655",
+      "Ingred": {
+         "Ingredients": " Cocoa Bean | Sugarcane | Milk | Slush Ice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Chocolate Waffles",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,223",
+      "SellPrice": "735",
+      "Ingred": {
+         "Ingredients": " Cocoa Bean | Wheat | Egg | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Coconut Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,653",
+      "SellPrice": "406",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk | Coconut"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Coconut Cake",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,750",
+      "SellPrice": "424",
+      "Ingred": {
+         "Ingredients": " Coconut | Wheat | Egg | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Coconut Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,169",
+      "SellPrice": "661",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Milk | Sugarcane | Coconut"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Crepe",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,624",
+      "SellPrice": "753",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Milk | Vanilla"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Dream Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,976",
+      "SellPrice": "588",
+      "Ingred": {
+         "Ingredients": " Dreamlight Fruit | Milk | Slush Ice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fruit Salad",
+      "Type": " Desserts",
+      "Stars": "★☆☆☆☆",
+      "Energy": "83",
+      "SellPrice": "10",
+      "Ingred": {
+         "Ingredients": " Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fruit Sorbet",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "467",
+      "SellPrice": "206",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Fruitcake",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "203",
+      "SellPrice": "42",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Fruit | Any Fruit | Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Gingerbread House",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,460",
+      "SellPrice": "545",
+      "Ingred": {
+         "Ingredients": " Wheat | Ginger | Sugarcane | Vanilla | Egg"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Gooseberry Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,833",
+      "SellPrice": "418",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk | Gooseberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Gray Stuff",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,008",
+      "SellPrice": "114",
+      "Ingred": {
+         "Ingredients": " Any Dairy or Oil | Sugarcane | Cocoa Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Hot Cocoa",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,563",
+      "SellPrice": "401",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk | Cocoa Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,158",
+      "SellPrice": "558",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Milk | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Jam Waffles",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,407",
+      "SellPrice": "691",
+      "Ingred": {
+         "Ingredients": " Any Fruit | Wheat | Egg | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Lemon Sorbet",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,112",
+      "SellPrice": "237",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Lemon"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Meringue Pie",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,014",
+      "SellPrice": "667",
+      "Ingred": {
+         "Ingredients": " Lemon | Wheat | Egg | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mermaid Cupcake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,690",
+      "SellPrice": "751",
+      "Ingred": {
+         "Ingredients": " Butter | Milk | Wheat | Sugarcane | Scallop"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Minnie Cupcake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,040",
+      "SellPrice": "745",
+      "Ingred": {
+         "Ingredients": " Butter | Milk | Wheat | Sugarcane | Apple"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Minnie's Gingerbread Cookies",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "379",
+      "SellPrice": "67",
+      "Ingred": {
+         "Ingredients": " Wheat | Ginger"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mint Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,032",
+      "SellPrice": "418",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk | Mint"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mint Candy",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "391",
+      "SellPrice": "89",
+      "Ingred": {
+         "Ingredients": " Mint | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mint Chocolate",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,827",
+      "SellPrice": "445",
+      "Ingred": {
+         "Ingredients": " Mint | Sugarcane | Butter | Cocoa Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Mint Sorbet",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "695",
+      "SellPrice": "260",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Mint"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pastry Cream and Fruits",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "958",
+      "SellPrice": "440",
+      "Ingred": {
+         "Ingredients": " Any Fruit | Any Fruit | Any Fruit | Milk | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Pawpsicle",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "574",
+      "SellPrice": "248",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Sugarcane | Any Fruit"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Peanut Butter Waffles",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,938",
+      "SellPrice": "978",
+      "Ingred": {
+         "Ingredients": " Peanut | Wheat | Egg | Milk"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Plain Snow Cones",
+      "Type": " Desserts",
+      "Stars": "★☆☆☆☆",
+      "Energy": "410",
+      "SellPrice": "180",
+      "Ingred": {
+         "Ingredients": " Any Ice"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Princess Aurora Raspberry Cupcake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,990",
+      "SellPrice": "738",
+      "Ingred": {
+         "Ingredients": " Butter | Milk | Wheat | Sugarcane | Raspberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Raspberry Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,248",
+      "SellPrice": "377",
+      "Ingred": {
+         "Ingredients": " Sugarcane | Milk | Raspberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Red Fruit Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "634",
+      "SellPrice": "280",
+      "Ingred": {
+         "Ingredients": " Any Fruit | Coconut | Coffee Bean | Lemon | Raspberry | Grapes | Wheat Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Red Fruit Sorbet",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,226",
+      "SellPrice": "359",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Raspberry | Gooseberry | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Root Beer",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "690",
+      "SellPrice": "166",
+      "Ingred": {
+         "Ingredients": " Ginger | Sugarcane | Vanilla"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Shake",
+      "Type": " Desserts",
+      "Stars": "★☆☆☆☆",
+      "Energy": "109",
+      "SellPrice": "30",
+      "Ingred": {
+         "Ingredients": " Any Dairy or Oil"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Snow White's Gooseberry Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,677",
+      "SellPrice": "338",
+      "Ingred": {
+         "Ingredients": " Gooseberry | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sour Snow Cones",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,257",
+      "SellPrice": "282",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Lemon | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spaceship Earth Cupcake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,440",
+      "SellPrice": "772",
+      "Ingred": {
+         "Ingredients": " Butter | Milk | Wheat | Sugarcane | Coconut"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spring Chocolate",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,392",
+      "SellPrice": "254",
+      "Ingred": {
+         "Ingredients": " Spring V-EGG-etable | Sugarcane | Cocoa Bean"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spring Egg Bowl",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,942",
+      "SellPrice": "370",
+      "Ingred": {
+         "Ingredients": " Egg-cellent Fruit | Spring V-EGG-etable | Wild Spring Egg | Cocoa Bean | Sugarcane"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Spring Mimosa Eggs",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,095",
+      "SellPrice": "336",
+      "Ingred": {
+         "Ingredients": " Spring V-EGG-etable | Wild Spring Egg | Egg-cellent Fruit | Basil"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Stitch Cupcake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,140",
+      "SellPrice": "751",
+      "Ingred": {
+         "Ingredients": " Butter | Milk | Wheat | Sugarcane | Blueberry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Sweet Slush",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "510",
+      "SellPrice": "219",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Any Sweet"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Tropical Pop",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,553",
+      "SellPrice": "329",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Any Fruit | Sugarcane | Coconut"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Vanilla Ice Cream",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,475",
+      "SellPrice": "673",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Milk | Sugarcane | Vanilla"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Waffles",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,455",
+      "SellPrice": "706",
+      "Ingred": {
+         "Ingredients": " Wheat Milk Egg Any Sweet ( Sugarcane only)"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Wedding Cake",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "1,680",
+      "SellPrice": "769",
+      "Ingred": {
+         "Ingredients": " Butter | Sugarcane | Vanilla | Egg | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Whimsical Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,497",
+      "SellPrice": "324",
+      "Ingred": {
+         "Ingredients": " Dreamlight Fruit | Wheat | Butter"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Wonderland Cookies",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "970",
+      "SellPrice": "391",
+      "Ingred": {
+         "Ingredients": " Butter | Sugarcane | Vanilla | Wheat"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Yule Log",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "2,147",
+      "SellPrice": "198",
+      "Ingred": {
+         "Ingredients": " Wheat | Cocoa Bean | Vanilla | Cherry"
+      },
+      "Collection": "Dreamlight Valley"
+   },
+    {
+      "Name": "Arepas Con Queso",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "770",
+      "SellPrice": "309",
+      "Ingred": {
+         "Ingredients": " Corn | Cheese | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Baozi",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "842",
+      "SellPrice": "503",
+      "Ingred": {
+         "Ingredients": " Pork | Wheat | Soya | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Barbecued Brilliant Blue Starfish",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "3,118",
+      "SellPrice": "1,202",
+      "Ingred": {
+         "Ingredients": " Brilliant Blue Starfish | Mint"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Barbecued Pretty Pink Starfish",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "2,812",
+      "SellPrice": "1,202",
+      "Ingred": {
+         "Ingredients": " Pretty Pink Starfish | Paprika"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Bulgur Salad",
+      "Type": " Appetizers",
+      "Stars": "★★★★★",
+      "Energy": "910",
+      "SellPrice": "396",
+      "Ingred": {
+         "Ingredients": " Wheat | Cucumber | Tomato | Mint | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Clam Juice",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "289",
+      "SellPrice": "93",
+      "Ingred": {
+         "Ingredients": " Clam | Tomato"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Coleslaw",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "387",
+      "SellPrice": "389",
+      "Ingred": {
+         "Ingredients": " Cabbage | Carrot"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Conch Ceviche",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "2,646",
+      "SellPrice": "712",
+      "Ingred": {
+         "Ingredients": " Sea Snail | Onion | Tomato | Lemon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Crab Melts",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "2,549",
+      "SellPrice": "1,014",
+      "Ingred": {
+         "Ingredients": " Crab | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Dumplings",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "710",
+      "SellPrice": "493",
+      "Ingred": {
+         "Ingredients": " Any Meat | Wheat | Any Vegetable | Soya"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Falafel",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "528",
+      "SellPrice": "159",
+      "Ingred": {
+         "Ingredients": " Beans | Cumin | Garlic"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Nuts & Bolts",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "3,195",
+      "SellPrice": "866",
+      "Ingred": {
+         "Ingredients": " Robot Fish | Almonds"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Roasted Almonds",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,070",
+      "SellPrice": "86",
+      "Ingred": {
+         "Ingredients": " Almonds | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Royal Ice Tea",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "610",
+      "SellPrice": "234",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Majestea"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Royal Latte",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "814",
+      "SellPrice": "338",
+      "Ingred": {
+         "Ingredients": " Milk | Majestea"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Royal Tea",
+      "Type": " Appetizers",
+      "Stars": "★☆☆☆☆",
+      "Energy": "218",
+      "SellPrice": "36",
+      "Ingred": {
+         "Ingredients": " Majestea"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sand Worm Carpaccio Plate",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "3,004",
+      "SellPrice": "1,160",
+      "Ingred": {
+         "Ingredients": " Sand Worm | Melon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Shad Ceviche",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "1,696",
+      "SellPrice": "427",
+      "Ingred": {
+         "Ingredients": " Shad | Onion | Tomato | Lemon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Spicy Scorpion Skewer",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,792",
+      "SellPrice": "617",
+      "Ingred": {
+         "Ingredients": " Scorpion | Paprika"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Takoyaki Stick",
+      "Type": " Appetizers",
+      "Stars": "★★★★☆",
+      "Energy": "2,164",
+      "SellPrice": "898",
+      "Ingred": {
+         "Ingredients": " Octopus | Seaweed | Egg | Soya"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Thousand Needles",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "5,000",
+      "SellPrice": "2,497",
+      "Ingred": {
+         "Ingredients": " Brilliant Blue Starfish | Pretty Pink Starfish | Cactoberries"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Tomato Basil Soup",
+      "Type": " Appetizers",
+      "Stars": "★★☆☆☆",
+      "Energy": "255",
+      "SellPrice": "93",
+      "Ingred": {
+         "Ingredients": " Tomato | Basil"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Vegetarian Dumplings",
+      "Type": " Appetizers",
+      "Stars": "★★★☆☆",
+      "Energy": "225",
+      "SellPrice": "109",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Vegetables | Soya"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Ajiaco",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "757",
+      "SellPrice": "898",
+      "Ingred": {
+         "Ingredients": " Corn | Potato | Poultry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Baked Beans",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "544",
+      "SellPrice": "388",
+      "Ingred": {
+         "Ingredients": " Beans | Pork"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Best Fish Forever",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "4,420",
+      "SellPrice": "1,400",
+      "Ingred": {
+         "Ingredients": " Sea Snail | Robot Fish | Celery | Cumin"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Biryani",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,468",
+      "SellPrice": "1,049",
+      "Ingred": {
+         "Ingredients": " Poultry | Rice | Cinnamon | Cumin | Mint"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Blend of the Bayou",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "4,238",
+      "SellPrice": "2,409",
+      "Ingred": {
+         "Ingredients": " Prisma Shrimp | Rice | Celery | Butter | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Bony Osso Buco",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,192",
+      "SellPrice": "272",
+      "Ingred": {
+         "Ingredients": " Skeleton Fish | Celery | Any Vegetable | Grapes"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Braised Abalone",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "2,500",
+      "SellPrice": "570",
+      "Ingred": {
+         "Ingredients": " Oyster | Sea Snail | Mushroom | Garlic"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Braised Bamboo Shoots",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "898",
+      "SellPrice": "461",
+      "Ingred": {
+         "Ingredients": " Bamboo | Canola | Soya | Ginger"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Brandade de Morue",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,336",
+      "SellPrice": "757",
+      "Ingred": {
+         "Ingredients": " Cod | Potato | Milk | Lemon | Garlic"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Burrito",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "809",
+      "SellPrice": "473",
+      "Ingred": {
+         "Ingredients": " Any Meat | Wheat | Beans | Cumin"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Butter Chicken",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,142",
+      "SellPrice": "1,200",
+      "Ingred": {
+         "Ingredients": " Poultry | Tomato | Butter | Lemon | Cumin"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cheeseburger",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,113",
+      "SellPrice": "1,785",
+      "Ingred": {
+         "Ingredients": " Venison | Wheat | Any Vegetable | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Chicken Souvlaki",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,816",
+      "SellPrice": "949",
+      "Ingred": {
+         "Ingredients": " Poultry | Lemon | Mint | Paprika"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Classic Mac & Cheese",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "541",
+      "SellPrice": "236",
+      "Ingred": {
+         "Ingredients": " Wheat | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Club Sandwich",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,075",
+      "SellPrice": "1,161",
+      "Ingred": {
+         "Ingredients": " Pork | Poultry | Wheat | Tomato"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Coq en Barbouille",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "880",
+      "SellPrice": "1,030",
+      "Ingred": {
+         "Ingredients": " Poultry | Onion | Any Vegetable | Grapes"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cream Cheese Bagel",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "652",
+      "SellPrice": "280",
+      "Ingred": {
+         "Ingredients": " Wheat | Cheese | Any Sweet"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Crimson Burger",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "187",
+      "SellPrice": "231",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Vegetable | Ruby Lentils"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Dragon Roll Maki",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "3,193",
+      "SellPrice": "1,670",
+      "Ingred": {
+         "Ingredients": " Electric Eel | Rice | Seaweed | Any Vegetable"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Fabulous Fajitas",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "852",
+      "SellPrice": "851",
+      "Ingred": {
+         "Ingredients": " Poultry | Wheat | Any Vegetable | Any Vegetable | Cumin"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Good Ol' Fashioned Burger",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "634",
+      "SellPrice": "1,413",
+      "Ingred": {
+         "Ingredients": " Venison | Wheat | Lettuce"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Hamburger Steak",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "855",
+      "SellPrice": "1,774",
+      "Ingred": {
+         "Ingredients": " Venison | Potato | Any Vegetable | Beans"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Hawaiian Pizza",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,506",
+      "SellPrice": "1,577",
+      "Ingred": {
+         "Ingredients": " Pork | Wheat | Tomato | Cheese | Pineapple"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Jerk Chicken",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,229",
+      "SellPrice": "1,102",
+      "Ingred": {
+         "Ingredients": " Poultry | Onion | Garlic | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Latkes",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,280",
+      "SellPrice": "937",
+      "Ingred": {
+         "Ingredients": " Onion | Potato | Canola | Egg"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Lo-Fries",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "387",
+      "SellPrice": "358",
+      "Ingred": {
+         "Ingredients": " Flute Root | Yam | Canola"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Meat Pie",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,047",
+      "SellPrice": "618",
+      "Ingred": {
+         "Ingredients": " Any Meat | Wheat | Butter"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Meaty Taco",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,112",
+      "SellPrice": "1,785",
+      "Ingred": {
+         "Ingredients": " Venison | Chili Pepper | Corn | Any Vegetable | Cumin"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Milky Way Stew",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,872",
+      "SellPrice": "733",
+      "Ingred": {
+         "Ingredients": " Rainbow Trout | Milk | Turnip | Cosmic Figs"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Moqueca de Pirarucu",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "3,453",
+      "SellPrice": "1,024",
+      "Ingred": {
+         "Ingredients": " Pirarucu | Any Vegetable | Any Vegetable | Coconut"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Nachos",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "842",
+      "SellPrice": "383",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Corn | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pasta with Herbs",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "759",
+      "SellPrice": "289",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pesto with Linguine",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,063",
+      "SellPrice": "438",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Garlic | Oregano"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Piquant Piranha Soup",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "4,001",
+      "SellPrice": "2,041",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Bamboo | Piranha"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Poutine",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "845",
+      "SellPrice": "580",
+      "Ingred": {
+         "Ingredients": " Potato | Canola | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pulled Pork",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,021",
+      "SellPrice": "738",
+      "Ingred": {
+         "Ingredients": " Pork | Onion | Tomato | Oregano"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pupusas Revueltas",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "627",
+      "SellPrice": "790",
+      "Ingred": {
+         "Ingredients": " Poultry | Corn | Beans"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Rainbouillabaisse",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "4,174",
+      "SellPrice": "2,087",
+      "Ingred": {
+         "Ingredients": " Prisma Shrimp | Any Seafood | Rainbow Trout | Tomato | Any Vegetable"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Ramen",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,128",
+      "SellPrice": "660",
+      "Ingred": {
+         "Ingredients": " Pork | Wheat | Egg"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Rhapsody Roll",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "335",
+      "SellPrice": "301",
+      "Ingred": {
+         "Ingredients": " Rice | Flute Root | Seaweed | Any Vegetable"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Roast",
+      "Type": " Entrées",
+      "Stars": "★☆☆☆☆",
+      "Energy": "450",
+      "SellPrice": "300",
+      "Ingred": {
+         "Ingredients": " Any Meat"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Royal Burger",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,670",
+      "SellPrice": "2,303",
+      "Ingred": {
+         "Ingredients": " Pork | Venison | Wheat | Any Vegetable | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Ruby Masoor Dal",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "405",
+      "SellPrice": "357",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Tomato | Ruby Lentils"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sand Stew",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "5,000",
+      "SellPrice": "2,244",
+      "Ingred": {
+         "Ingredients": " Dunebopper | Sand Fish | Any Vegetable | Sand Worm | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sausage and Sauerkraut Platter",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "958",
+      "SellPrice": "884",
+      "Ingred": {
+         "Ingredients": " Pork | Cabbage | Potato"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Schnitzel",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "640",
+      "SellPrice": "854",
+      "Ingred": {
+         "Ingredients": " Poultry | Wheat | Canola"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sesame Seed Bagel",
+      "Type": " Entrées",
+      "Stars": "★★☆☆☆",
+      "Energy": "160",
+      "SellPrice": "26",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Sweet"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Shawarma",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,048",
+      "SellPrice": "1,877",
+      "Ingred": {
+         "Ingredients": " Venison | Rice | Lemon | Cinnamon | Garlic"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Shish Taouk",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "1,928",
+      "SellPrice": "1,109",
+      "Ingred": {
+         "Ingredients": " Poultry | Rice | Lemon | Garlic | Oregano"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sweet and Sour Stir-Fry",
+      "Type": " Entrées",
+      "Stars": "★★★★★",
+      "Energy": "2,350",
+      "SellPrice": "2,148",
+      "Ingred": {
+         "Ingredients": " Poultry | Broccoli | Canola | Dreamango | Pineapple"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Tandoori Chicken",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,199",
+      "SellPrice": "964",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Poultry | Cumin | Paprika"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Tofu",
+      "Type": " Entrées",
+      "Stars": "★☆☆☆☆",
+      "Energy": "142",
+      "SellPrice": "82",
+      "Ingred": {
+         "Ingredients": " Soya"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Tourtière",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "814",
+      "SellPrice": "1,704",
+      "Ingred": {
+         "Ingredients": " Venison | Wheat | Potato | Any Vegetable"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Turkey Leg",
+      "Type": " Entrées",
+      "Stars": "★★★★☆",
+      "Energy": "1,123",
+      "SellPrice": "884",
+      "Ingred": {
+         "Ingredients": " Poultry | Cumin | Paprika | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Turnip Tartiflette",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "1,459",
+      "SellPrice": "863",
+      "Ingred": {
+         "Ingredients": " Pork | Turnip | Cheese"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Vegetarian Turnip Tartiflette",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "816",
+      "SellPrice": "399",
+      "Ingred": {
+         "Ingredients": " Mushroom | Turnip | Soya"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Yakisoba",
+      "Type": " Entrées",
+      "Stars": "★★★☆☆",
+      "Energy": "789",
+      "SellPrice": "710",
+      "Ingred": {
+         "Ingredients": " Pork | Wheat | Cabbage"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Apple Sauce",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "823",
+      "SellPrice": "71",
+      "Ingred": {
+         "Ingredients": " Apple | Cinnamon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Basil Berry Salad",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,355",
+      "SellPrice": "142",
+      "Ingred": {
+         "Ingredients": " Blueberry | Basil | Strawberry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cannoli",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,482",
+      "SellPrice": "678",
+      "Ingred": {
+         "Ingredients": " Wheat | Cheese | Egg | Vanilla"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Caramel Macarons",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,724",
+      "SellPrice": "401",
+      "Ingred": {
+         "Ingredients": " Almonds | Egg | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Charlotte Cake",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "759",
+      "SellPrice": "69",
+      "Ingred": {
+         "Ingredients": " Wheat | Strawberry | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Chocolate Macarons",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "2,354",
+      "SellPrice": "419",
+      "Ingred": {
+         "Ingredients": " Almonds | Egg | Cocoa Bean"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cinnamon Donut",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,094",
+      "SellPrice": "406",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Cinnamon | Any Sweet"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cotton Candy",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "298",
+      "SellPrice": "56",
+      "Ingred": {
+         "Ingredients": " Agave | Sugarcane"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Croissant",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "566",
+      "SellPrice": "249",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Cupcakes",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,853",
+      "SellPrice": "433",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Cherry | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Danish",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "705",
+      "SellPrice": "314",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Any Fruit | Any Fruit"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Dreamango Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,833",
+      "SellPrice": "418",
+      "Ingred": {
+         "Ingredients": " Milk | Dreamango | Sugarcane"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "French Macarons",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,461",
+      "SellPrice": "340",
+      "Ingred": {
+         "Ingredients": " Almonds | Egg"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Fruit Milkshake",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,113",
+      "SellPrice": "544",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Milk | Any Fruit"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Glazed Donut",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "760",
+      "SellPrice": "336",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Any Sweet"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Gourmet Grubs",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "5,000",
+      "SellPrice": "2,065",
+      "Ingred": {
+         "Ingredients": " Sea Snail | Sand Worm | Scorpion"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Jam Macarons",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,581",
+      "SellPrice": "378",
+      "Ingred": {
+         "Ingredients": " Almonds | Egg | Any Fruit"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Kanelbulle",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,548",
+      "SellPrice": "663",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Egg | Cinnamon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Kouign-Amann",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,358",
+      "SellPrice": "610",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Butter | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Maamouls",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,614",
+      "SellPrice": "100",
+      "Ingred": {
+         "Ingredients": " Wheat | Almonds | Dates"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Makrout",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,157",
+      "SellPrice": "254",
+      "Ingred": {
+         "Ingredients": " Wheat | Canola | Dates | Cinnamon"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Melon Boba Tea",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "911",
+      "SellPrice": "478",
+      "Ingred": {
+         "Ingredients": " Milk | Melon | Sugarcane"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Mooncake",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "465",
+      "SellPrice": "276",
+      "Ingred": {
+         "Ingredients": " Wheat | Canola | Beans | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Nestling Crepe",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,938",
+      "SellPrice": "715",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Milk | Nestling Pear"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pastéis de Nata",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "1,645",
+      "SellPrice": "774",
+      "Ingred": {
+         "Ingredients": " Corn | Egg | Milk | Vanilla"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pear Upside-Down Cake",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,218",
+      "SellPrice": "345",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Nestling Pear"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Pineapple Soft Serve",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "717",
+      "SellPrice": "886",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Pineapple"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Popcorn",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "201",
+      "SellPrice": "161",
+      "Ingred": {
+         "Ingredients": " Corn | Canola"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Raspberry Jam Sandwich",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "549",
+      "SellPrice": "29",
+      "Ingred": {
+         "Ingredients": " Wheat | Raspberry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Red Velvet",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,458",
+      "SellPrice": "783",
+      "Ingred": {
+         "Ingredients": " Wheat | Cheese | Egg | Cocoa Bean | Vanilla"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Spicy Macarons",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,796",
+      "SellPrice": "475",
+      "Ingred": {
+         "Ingredients": " Chili Pepper | Almonds | Egg"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Spiky Berry Pie",
+      "Type": " Desserts",
+      "Stars": "★★★★★",
+      "Energy": "2,188",
+      "SellPrice": "421",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Cactoberries | Strawberry | Any Spice"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Stellar Milkshake",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,169",
+      "SellPrice": "562",
+      "Ingred": {
+         "Ingredients": " Slush Ice | Milk | Cosmic Figs"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Strawberry Pie",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,092",
+      "SellPrice": "300",
+      "Ingred": {
+         "Ingredients": " Wheat | Butter | Strawberry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Strawberry Shortcake",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,173",
+      "SellPrice": "342",
+      "Ingred": {
+         "Ingredients": " Wheat | Egg | Strawberry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Stuffed Dates",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "1,495",
+      "SellPrice": "91",
+      "Ingred": {
+         "Ingredients": " Almonds | Dates"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sugar-Free Banana Muffin",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "677",
+      "SellPrice": "39",
+      "Ingred": {
+         "Ingredients": " Wheat | Banana"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sugar-Free Blueberry Muffin",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "677",
+      "SellPrice": "39",
+      "Ingred": {
+         "Ingredients": " Wheat | Blueberry"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sugar-Free Fruit Explosion Muffin",
+      "Type": " Desserts",
+      "Stars": "★★★★☆",
+      "Energy": "354",
+      "SellPrice": "66",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Fruit | Any Fruit | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sugar-Free Fruit Muffin",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "117",
+      "SellPrice": "13",
+      "Ingred": {
+         "Ingredients": " Wheat | Any Fruit"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sweet Popcorn",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "390",
+      "SellPrice": "209",
+      "Ingred": {
+         "Ingredients": " Corn | Canola | Agave"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Sweet Tofu",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "183",
+      "SellPrice": "100",
+      "Ingred": {
+         "Ingredients": " Soya | Any Fruit"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Taiyaki",
+      "Type": " Desserts",
+      "Stars": "★★☆☆☆",
+      "Energy": "374",
+      "SellPrice": "102",
+      "Ingred": {
+         "Ingredients": " Sand Fish | Beans"
+      },
+      "Collection": "Eternity Isle"
+   },
+    {
+      "Name": "Vanilla Macarons",
+      "Type": " Desserts",
+      "Stars": "★★★☆☆",
+      "Energy": "1,787",
+      "SellPrice": "436",
+      "Ingred": {
+         "Ingredients": " Almonds | Egg | Vanilla"
+      },
+      "Collection": "Eternity Isle"
+   }
+   ]
+
+  
